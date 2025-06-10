@@ -1,0 +1,23 @@
+# GUI 與桌面視窗控制
+PySide6      # 桌面 GUI 主體
+pystray      # 系統托盤功能（支援 Windows/macOS/Linux）
+Pillow         # 處理圖片與透明通道
+
+# 動畫與事件
+qasync           # 若 GUI 需要 async 支援，可選
+numpy            # 圖像計算輔助（若需影像處理）
+
+# 音效與多媒體
+pygame         # 播放音效或音樂
+pydub          # 音訊處理與格式轉換（需搭配 ffmpeg）
+
+# 任務與排程
+apscheduler     # 定時任務排程（替代 threading.Timer）
+schedule          # 簡易任務調度（可選）
+
+# 打包工具（開發用）
+pyinstaller      # 將程式打包為可執行檔
+
+# 其他實用工具
+python-dotenv     # 管理 .env 環境變數
+loguru          # 強化日誌輸出（可選）
