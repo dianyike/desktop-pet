@@ -95,6 +95,7 @@ dmypy.json
 config.json
 logs/
 *.log
+assets/
 
 # IDE和編輯器
 .vscode/
