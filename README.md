@@ -11,7 +11,7 @@
 
 本專案的 `assets` 資料夾包含須購買商業授權的遊戲素材，因授權限制未隨專案一同公開。  
 如需執行或編輯本專案，請自行準備相關素材。
-我使用的素材為https://toffeecraft.itch.io/cat-pack我已購買商業授權。
+我使用的素材為https://toffeecraft.itch.io/cat-pack **(我已購買商業授權)**。
 
 ## 🎯 版本亮點 (v1.1.0)
 
